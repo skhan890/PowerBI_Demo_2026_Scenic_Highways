@@ -3,7 +3,7 @@
 A Power BI dashboard analyzing Florida's 27 designated scenic highways by traffic volume and points of interest.
 
 ## Live dashboard
-https://app.powerbi.com/groups/me/reports/be6ae089-d04c-4eba-8685-4f91af2ba457/1e29b6435f9494256d6e?experience=power-bi
+https://app.powerbi.com/view?r=eyJrIjoiZGEzY2JhZDAtNWYyMi00NmJmLTlmMmItMmM4NmRiZTFmNDI5IiwidCI6IjUxNDAwYjVkLThjN2UtNDYzNC05MTkxLWQyMjEzY2Y5ZTFkYSJ9&pageName=0e8e19ac4cbf2a7488a4
 ## Overview
 Helps FDOT planners and Florida residents identify scenic highway corridors balancing traffic volume with experiential quality. The Chill Rating categorizes routes by daily traffic density to support trip planning and corridor preservation.
 
