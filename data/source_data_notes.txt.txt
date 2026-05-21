@@ -1,0 +1,3 @@
+
+Raw shapefiles obtained from the FDOT Transportation Statistics 
+GIS portal: [ftp.fdot.gov](https://ftp.fdot.gov/login?rurl=%2Ffile%2Fd%2FFTP%2FFDOT%2Fco%2Fplanning%2Ftranstat%2Fgis%2Fshapefiles%2F)
